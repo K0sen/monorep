@@ -1,5 +1,4 @@
 {
-  "name": "esports-packages",
   "private": true,
   "workspaces": [
     "packages/*"
