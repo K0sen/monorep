@@ -1,0 +1,9 @@
+{
+  "name": "@esports/hello",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 333"
+  },
+  "license": "MIT"
+}
